@@ -12,9 +12,7 @@
 		<wmax x="10.0" y="10.0"/>
 	</window>
 
-</dados>
-
-<!-- <ponto x="0" y="2"/>
+	<ponto x="0" y="2"/>
 	<ponto x="2" y="4"/>
 	<ponto x="4" y="6"/>
 
@@ -33,4 +31,6 @@
 		<ponto x="1.0" y="2.0"/>
 		<ponto x="2.0" y="2.0"/>
 		<ponto x="2.0" y="1.0"/>
-	</poligono> -->
+		<!-- <ponto> adicionais -->
+	</poligono>
+</dados>
